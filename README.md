@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gaurav Tiwari
+# 👋 Hi, I'm Gaurav Tiwari
 
 AML/KYC Professional | Financial Crime Compliance | Data Analytics
 
@@ -6,32 +6,9 @@ Welcome to my GitHub profile! I'm a finance and financial-crime-compliance profe
 
 I enjoy transforming complex compliance and financial data into meaningful insights, efficient processes, and practical business solutions.
 
-## 🚀 About Me
+### 🚀 About Me
 
-💼 Assistant Manager – AML/KYC | BFSI
-
-🏢 Tata Consultancy Services (TCS)
-
-📊 11+ years of experience in AML/KYC & Financial Crime Compliance
-
-🎓 MBA – Finance
-
-🌍 Experience across KYC, CDD, EDD, UBO, Sanctions Screening & Client Onboarding
-
-📈 Interested in Financial Data Analytics & Compliance Analytics
-
-🤖 Exploring AI & Machine Learning for Financial Crime Detection
-
-💻 Building practical projects using SQL, Python, Excel & Power BI
-
-
-🧠 Core Expertise
-
-Financial Crime & Compliance
-
-AML / K🚀 About Me
-
-💼 Assistant Manager – AML/KYC | BFSI
+### 💼 Assistant Manager – AML/KYC | BFSI
 
 🏢 Tata Consultancy Services (TCS)
 
@@ -48,19 +25,7 @@ AML / K🚀 About Me
 💻 Building practical projects using SQL, Python, Excel & Power BI
 
 
-🧠 Core Expertise
-
-Financial Crime & Compliance
-
-AML / K🚀 About Me
-
-💼 Assistant Manager – AML/KYC | BFSI
-
-🏢 Tata Consultancy Services (TCS)
-
-📊 11+ years of experience in AML/KYC & Financial Crime Compliance
-
-🎓 MBA – Finance
+## 🧠 Core Expertise
 
 🌍 Experience across KYC, CDD, EDD, UBO, Sanctions Screening & Client Onboarding
 
