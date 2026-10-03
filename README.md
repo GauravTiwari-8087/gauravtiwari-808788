@@ -1,21 +1,72 @@
-# Hello I'm Gaurav Tiwari,
-### I am assistant manager | Data Analyst | Business Analyst | financial Analyst
-AML & KYC Professional | AI & Data Analytics Enthusiast | Financial Crime Compliance | Exploring data-driven solutions for smarter, more efficient compliance.
+## 👋 Hi, I'm Gaurav Tiwari
 
-Gaurav Tiwari AML KYC Manager
+AML/KYC Professional | Financial Crime Compliance | Data Analytics
 
-gaurav.tiwari808788@gmail.com
+Welcome to my GitHub profile! I'm a finance and financial-crime-compliance professional with a strong interest in data analytics, automation, technology, and AI-driven solutions for AML/KYC.
 
-## Skills
-SQL
+I enjoy transforming complex compliance and financial data into meaningful insights, efficient processes, and practical business solutions.
 
-POWER BI
+## 🚀 About Me
 
-TABLEAU
+💼 Assistant Manager – AML/KYC | BFSI
 
-Ratio Analyssi
+🏢 Tata Consultancy Services (TCS)
 
-Financial analysis
+📊 11+ years of experience in AML/KYC & Financial Crime Compliance
+
+🎓 MBA – Finance
+
+🌍 Experience across KYC, CDD, EDD, UBO, Sanctions Screening & Client Onboarding
+
+📈 Interested in Financial Data Analytics & Compliance Analytics
+
+🤖 Exploring AI & Machine Learning for Financial Crime Detection
+
+💻 Building practical projects using SQL, Python, Excel & Power BI
 
 
+🧠 Core Expertise
+
+Financial Crime & Compliance
+
+AML / K🚀 About Me
+
+💼 Assistant Manager – AML/KYC | BFSI
+
+🏢 Tata Consultancy Services (TCS)
+
+📊 11+ years of experience in AML/KYC & Financial Crime Compliance
+
+🎓 MBA – Finance
+
+🌍 Experience across KYC, CDD, EDD, UBO, Sanctions Screening & Client Onboarding
+
+📈 Interested in Financial Data Analytics & Compliance Analytics
+
+🤖 Exploring AI & Machine Learning for Financial Crime Detection
+
+💻 Building practical projects using SQL, Python, Excel & Power BI
+
+
+🧠 Core Expertise
+
+Financial Crime & Compliance
+
+AML / K🚀 About Me
+
+💼 Assistant Manager – AML/KYC | BFSI
+
+🏢 Tata Consultancy Services (TCS)
+
+📊 11+ years of experience in AML/KYC & Financial Crime Compliance
+
+🎓 MBA – Finance
+
+🌍 Experience across KYC, CDD, EDD, UBO, Sanctions Screening & Client Onboarding
+
+📈 Interested in Financial Data Analytics & Compliance Analytics
+
+🤖 Exploring AI & Machine Learning for Financial Crime Detection
+
+💻 Building practical projects using SQL, Python, Excel & Power BI
 
